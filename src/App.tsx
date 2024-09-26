@@ -135,7 +135,7 @@ export default function App() {
               </FormItem>
             )}
           />
-          <div className="flex flex-col md:flex-row justify-between items-center">
+          <div className="flex flex-col md:flex-row justify-between md:items-center">
             <div className="md:max-w-3/4 md:mr-3">
               <FormField
                 control={form.control}
